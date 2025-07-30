@@ -1,0 +1,7 @@
+matplotlib-plt
+scikitlearn-sklearn
+numpy-py
+pandas-pd
+joblib for pickling
+import os 
+streamlit for deployment
